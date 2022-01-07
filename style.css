@@ -201,10 +201,14 @@ footer nav{
     }
     .social-links{
         padding: 20px 0;
+        width: 50%;
         margin: 0 auto;
     }
     .phone{
         padding-bottom: 15px;
+    }
+    footer{
+        padding: 0;
     }
 }
 
