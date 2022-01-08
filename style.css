@@ -178,6 +178,11 @@ footer nav{
 
 }
 
+.about_me div:hover,
+h2:hover{
+    cursor: default;
+}
+
 @media (max-width: 1050px){
     main, .header-content{
         display: block;
